@@ -36,4 +36,4 @@ behaviors:
 
 # Enable when training from a build or in the cloud.
 env_settings:
-  num_envs: 3
+  num_envs: 30
